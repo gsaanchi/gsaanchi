@@ -27,7 +27,7 @@ Python • C/C++ • JavaScript • SQL
 
 **Web stuff**
 ```
-HTML/CSS • Flask • REST APIs • Streamlit • MERN Stack
+HTML/CSS • Flask • REST APIs • Streamlit 
 ```
 
 **ML & AI magic**
@@ -38,7 +38,7 @@ NLP • Sentiment Analysis • Predictive Modeling
 
 **What I love building**
 ```
-Full-Stack Applications • AI/ML Solutions • Financial Models • API Systems
+Web Applications • AI/ML Solutions • Financial Models • API Systems
 ```
 
 ## Projects I'm proud of
