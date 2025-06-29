@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Full-stack+developer+%26+ML+enthusiast;Turning+ideas+into+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Learning+full-stack+development+%26+ML;Turning+ideas+into+code)](https://git.io/typing-svg)
 
 **B.Tech EEE at IIT Guwahati**
 
@@ -12,11 +12,11 @@
 
 ## What I'm all about
 
-I'm an engineering student who loves building things that actually work and solve problems. Currently diving deep into AI and full-stack development, with a particular interest in how machine learning can be applied to finance and real-world applications.
+I'm an engineering student who loves building things that actually work and solve problems. Currently diving deep into AI and learning full-stack development, with a particular interest in how machine learning can be applied to finance and real-world applications.
 
 When I'm not buried in coursework, you'll find me experimenting with new frameworks, building side projects, or analyzing market trends (yes, I'm one of those people who finds stock charts fascinating).
 
-**What keeps me busy:** Building AI applications, full-stack web development, and exploring fintech solutions
+**What keeps me busy:** Building AI applications, learning full-stack development, and exploring fintech solutions
 
 ## My toolkit
 
@@ -65,6 +65,30 @@ Turns out, market sentiment is pretty predictive when you process it right. I us
 
 ---
 
+### Game Theory Strategic Simulations - Nash Equilibrium in action
+**2025**
+
+Ever wondered how rational people make decisions when everyone else is also being rational? I built two interactive simulations to explore this:
+
+**The Resource Allocation Challenge** - Players bid for water resources across three rounds. Farmers, factories, and homes compete while a water manager tries to optimize allocation. Watching people naturally converge to Nash equilibrium strategies was fascinating.
+
+**Monopoly vs. Competition** - A classic market entry game where a new firm decides whether to enter a market and an existing monopolist chooses to accommodate or fight. The equilibrium? Enter and accommodate - just like real markets.
+
+**Built with:** Python, Google Colab, NumPy, Matplotlib, Game Theory principles
+
+---
+
+### SQL-Based Inventory Optimization - Making retail smarter
+**2025**
+
+Urban Retail Co. had a problem - 5,000+ SKUs across multiple cities, and they couldn't figure out optimal inventory levels. So I built them a complete SQL-driven analytics pipeline.
+
+The interesting part was designing a normalized database schema from 100K+ transaction records, then building advanced queries to detect overstocking, understocking, and calculate dynamic reorder points. The Power BI dashboard made it easy for managers to spot problems instantly.
+
+**Built with:** SQL (SQLite), Power BI, Advanced Analytics, Database Design
+
+---
+
 ### Mini Q&A API System - Google meets GPT, but simpler
 **Dec 2024-Jan 2025**
 
@@ -73,6 +97,17 @@ Sometimes you just want quick, accurate answers without scrolling through endles
 The challenge was making it fast and accurate - I built an asynchronous pipeline that processes queries in parallel and uses BART for summarization. The frontend is clean and responsive, perfect for quick research sessions.
 
 **Built with:** Flask, BART, Google Search API, HTML/CSS/JavaScript
+
+---
+
+### Krack the Hack - Hotel Reviews Analysis
+**2024**
+
+Ever wondered what people really think about their hotel stays? I dove into thousands of Booking.com reviews to find out. This project analyzes hotel review data to uncover patterns in traveler behavior and what actually makes people happy (or really upset) about their stays.
+
+The interesting challenge was extracting structured insights from messy review data. I used regex and NLP to parse trip types, traveler categories, and stay durations from unstructured tags. Then applied VADER and TextBlob for sentiment analysis, plus LDA topic modeling to identify what people complain about most (spoiler: it's usually the WiFi).
+
+**Built with:** Python, Pandas, NLTK, TextBlob, Scikit-learn, Matplotlib, Seaborn
 
 ## What I'm learning
 
@@ -93,15 +128,6 @@ The challenge was making it fast and accurate - I built an asynchronous pipeline
 - **Academic stuff:** Top 10% ranking (turns out showing up to class helps)
 - **Finance & Economics Club:** Core team member - led analysis on 100+ mutual funds
 
-## Numbers that matter
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saanchigupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanchigupta&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ## Let's connect
 
