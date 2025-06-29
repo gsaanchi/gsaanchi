@@ -14,7 +14,7 @@
 
 I'm an engineering student who loves building things that actually work and solve problems. Currently diving deep into AI and learning full-stack development, with a particular interest in how machine learning can be applied to finance and real-world applications.
 
-When I'm not buried in coursework, you'll find me experimenting with new frameworks, building side projects, or analyzing market trends (yes, I'm one of those people who finds stock charts fascinating).
+When I'm not buried in coursework, you'll find me experimenting with new frameworks, building side projects, or analyzing market trends.
 
 **What keeps me busy:** Building AI applications, learning full-stack development, and exploring fintech solutions
 
