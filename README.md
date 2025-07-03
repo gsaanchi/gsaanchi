@@ -59,7 +59,7 @@ The fun part was figuring out how to make the AI understand what you actually wa
 
 You know how everyone says "buy the rumor, sell the news"? I wanted to test if that's actually true. So I built a system that analyzes financial news sentiment and correlates it with next-day stock movements.
 
-Turns out, market sentiment is pretty predictive when you process it right. I used FinBERT and VADER to extract sentiment scores and built regression models that significantly outperformed baseline predictions. The best part? Seeing the model correctly predict market reactions to major news events.
+Turns out, market sentiment is pretty predictive when you process it right. I used FinBERT and VADER to extract sentiment scores. The best part? Seeing the model correctly predict market reactions to major news events.
 
 **Built with:** Python, FinBERT, VADER, Scikit-learn, Pandas, Financial APIs
 
