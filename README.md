@@ -112,14 +112,14 @@ The interesting challenge was extracting structured insights from messy review d
 ## What I'm learning
 
 **Computer Science fundamentals:**
-- Data Structures and Algorithms (because leetcode is life)
+- Data Structures and Algorithms 
 - Theoretical CS and Automata Theory
 - Competitive Programming (IICPC Summer Camp)
 
 **Math that actually matters:**
 - Linear Algebra and Calculus
 - Differential Equations
-- Mathematical Economics (surprisingly useful for ML)
+- Mathematical Economics 
 
 ## Some wins along the way
 
